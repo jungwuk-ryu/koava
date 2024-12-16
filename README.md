@@ -25,6 +25,9 @@ Koava는 Java 환경에서 키움증권의 Open API를 효율적으로 활용할
 - [kw_ 리포지토리](https://github.com/smok95/kw_)
 - [Kiwoom Open API Plus Dev Guide](https://download.kiwoom.com/web/openapi/kiwoom_openapi_plus_devguide_ver_1.5.pdf)
 
+## 가이드  
+[Java 기반 자동 주식 매매 프로그램 개발: Koava 사용법 강좌 1편 - 환경 설정](https://hancho1111.tistory.com/219)  
+
 ## 설치 및 설정
 
 ### 1. Koava 설치
