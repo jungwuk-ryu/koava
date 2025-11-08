@@ -1,13 +1,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungwuk-ryu%2FKoava&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 # Koava
 Koava는 Java 환경에서 키움증권의 Open API를 효율적으로 활용할 수 있도록 설계된 라이브러리입니다.  
 이 라이브러리는 smok95님의 [kw_](https://github.com/smok95/kw_) 리포지토리에 기반한 DLL을 활용하여 동작하며, 개발자의 개발 편의성 개선을 목표로 하고 있습니다.  
 개선이 필요한 부분이 존재할 수 있으나, 피드백을 통해 지속적인 개선이 이루어질 예정입니다.
-
-## 개발 현황  
-현재 군 복무 중인 관계로 프로젝트 개발에 제한이 있습니다. 때문에, 전역 전까지는 프로젝트에 관한 문서를 업데이트할 예정입니다. 
 
 ## 요구 사항
 - ``java 8 (32bit)``  
@@ -242,8 +238,6 @@ Koava는 API 응답 데이터를 가공한 다음 제공합니다. 덕분에 개
 ex: ``getStockMarketKind`` -> ``getStockMarketKindRaw``
 
 ## 추가 예제
-
-
 더 많은 사용 예제와 코드는 [여기](./example/)에서 확인할 수 있습니다. 앞으로도 예제는 지속적으로 추가될 예정입니다.
 
 ## 기여 방법
